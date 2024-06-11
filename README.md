@@ -34,14 +34,12 @@ ability to correctly classify URLs and distinguish between real and fraudulent w
 fromonline threats and reduces the impact of phishing attacks on individuals and organizations.
 
 Proposed System:
-
     The aim of this research is to enhance defense mechanisms against phishing attacks by developing and implementing machine learning-based methodsto categorize websites. Specifically, the research 
 focuses on utilizing various approaches to classify websites based on their URLs. The methodology includes the development of a system that employs machine learning techniques for website classification, 
 with a particular emphasis on feature extraction using the Recursive Feature Elimination with Crossvalidation (RFEC) method. Additionally, two classifiers—XG Boost and Gradient Boosting—are utilized to 
 classify websites into categories such as legitimate,suspicious, or phishing sites.
 
 Problem Statement:
-
     With the exponential growth of online activities, the proliferation of phishing attacks has become a critical cybersecurity concern, posing substantial risks to both individuals and organizations. 
 Phishing URLs leverage social engineering tactics, preying on human vulnerabilities in information security awareness to deceive users into accessing fraudulent websites. Traditional security measures, 
 including blacklisting and whitelisting, face limitations in keeping pace with the dynamic nature of phishing attacks. To address this challenge, our paper tackles the pressing issue of real-time
